@@ -1,0 +1,7 @@
+Testing to add file at git:
+git add add-file.txt
+git commit -m "added add-file.txt"
+git remote add origin https://github.com/udaykarkera/gittest.git
+git push -u origin master
+
+
